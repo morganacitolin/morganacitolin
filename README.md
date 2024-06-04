@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/morganacitolin">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morganacitolin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganacitolin&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morganacitolin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganacitolin&layout=compact&langs_count=6&theme=ambient_gradient"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo me segue a gente nas redes abaixo!
+### Para mais conteúdos me segue a gente nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
